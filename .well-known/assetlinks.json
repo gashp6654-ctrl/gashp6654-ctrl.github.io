@@ -1,1 +1,1 @@
-[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"com.niuniu.stock","sha256_cert_fingerprints":["71:C2:1E:C6:EF:16:5E:78:93:07:CE:C8:57:85:A9:E2:A6:D0:AB:46:5F:51:AB:DD:17:76:29:A6:B9:63:E1:B5"]}}]
+[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"com.niuniu.stock","sha256_cert_fingerprints":["31:F4:D6:E8:8D:EA:11:BA:4C:85:36:C4:E6:3C:8F:65:21:0B:D9:B2:F9:5D:D6:57:D8:41:30:CC:AE:AA:18:A8"]}}]
